@@ -10,12 +10,23 @@
         "code": "Access code"
       },
       "button": {
-        "registration": "Register",
+        "register": "Register",
         "login": "Login"
       },
       "hint": {
         "code": "Hint for the access code field",
         "name": "The name is needed to help other users identify you."
+      }
+    },
+    "login": {
+      "header": "Login",
+      "field" : {
+        "login": "Login",
+        "password": "Password"
+      },
+      "button": {
+        "register": "Register",
+        "login": "Login"
       }
     }
   }
