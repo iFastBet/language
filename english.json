@@ -11,7 +11,7 @@
       },
       "button": {
         "registration": "Register",
-        "login": "Login",
+        "login": "Login"
       },
       "hint": {
         "code": "Hint for the access code field",
