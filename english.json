@@ -27,7 +27,8 @@
       "button": {
         "register": "Register",
         "login": "Login"
-      }
+      },
+      "link": "Forgot password?"
     }
   }
 }
