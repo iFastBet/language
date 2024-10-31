@@ -1,5 +1,4 @@
 {
-  "form": {
     "register": {
       "header": "Регистрация",
       "field" : {
@@ -21,7 +20,7 @@
     "login": {
       "header": "Вход",
       "field" : {
-        "login": "Логин",
+        "username": "Логин",
         "password": "Пароль"
       },
       "button": {
@@ -30,5 +29,4 @@
       },
       "link": "Забыли пароль?"
     }
-  }
 }
