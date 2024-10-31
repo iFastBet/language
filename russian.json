@@ -3,7 +3,7 @@
     "register": {
       "header": "Регистрация",
       "field" : {
-        "login": "Логин",
+        "username": "Логин",
         "password": "Пароль",
         "name": "Отображаемое имя",
         "email": "E-mail",
