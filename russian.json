@@ -1,5 +1,16 @@
 {
   "name": "Russian",
+  "error": {
+      "unknown_error": "Неизвестная ошибка",
+			"too_many_requests": "Слишком много запросов: попробуйте позже",
+			"websockets_failed": "Ошибка при соединениии с сервером Web Sockets",
+			"bad_request": "Плохой формат запроса",
+			"login_already_logged": "Вы уже авторизированы",
+			"login_username_empty": "Отсутсвует имя пользователя",
+			"login_password_empty": "Отсутстует пароль",
+			"login_username_wrong": "Пользователь не найден",
+			"login_password_wrong": "Неверный пароль"
+  },
   "register": {
     "header": "Регистрация",
     "field": {
