@@ -1,0 +1,22 @@
+{
+    "english": {
+        "profile": {
+            "header": "Profile",
+            "name": "Name",
+            "language": "Language",
+            "avatar": "Avatar",
+            "cancel": "Cancel",
+            "save": "Save"
+        }
+    },
+    "russian": {
+        "profile": {
+            "header": "Профиль",
+            "name": "Имя",
+            "language": "Язык",
+            "avatar": "Аватарка",
+            "cancel": "Отмена",
+            "save": "Сохранить"
+        }
+    }
+}
