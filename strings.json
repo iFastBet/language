@@ -1,6 +1,7 @@
 [
     {
         "name": "english",
+        "display": "English",
         "profile": {
             "header": "Profile",
             "name": "Name",
@@ -12,6 +13,7 @@
     },
     {
         "name": "russian",
+        "display": "Русский",
         "profile": {
             "header": "Профиль",
             "name": "Имя",
