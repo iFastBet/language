@@ -1,5 +1,6 @@
-{
-    "english": {
+[
+    {
+        "name": "english",
         "profile": {
             "header": "Profile",
             "name": "Name",
@@ -9,7 +10,8 @@
             "save": "Save"
         }
     },
-    "russian": {
+    {
+        "name": "russian",
         "profile": {
             "header": "Профиль",
             "name": "Имя",
@@ -19,4 +21,4 @@
             "save": "Сохранить"
         }
     }
-}
+]
