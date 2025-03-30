@@ -2,6 +2,12 @@
     {
         "name": "english",
         "display": "English",
+        "login": {
+            "header": "Login",
+            "email": "Email",
+            "button": "Enter",
+            "hint": "Enter your email address and you will receive a code. This code will allow you to log into the system."
+        },
         "profile": {
             "header": "Profile",
             "name": "Name",
@@ -14,6 +20,12 @@
     {
         "name": "russian",
         "display": "Русский",
+        "login": {
+            "header": "Вход",
+            "email": "Email",
+            "button": "Войти",
+            "hint": "На адрес Вашей электронной почты придет код, с помощью которого Вы сможете авторизоваться в системе."
+        },
         "profile": {
             "header": "Профиль",
             "name": "Имя",
