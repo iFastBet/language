@@ -1,54 +1,64 @@
-[
-    {
-        "name": "english",
-        "display": "English",
-        "login": {
-            "header": "Login",
-            "email": "Email",
-            "button": "Enter",
-            "error_sending": "Unable to send the code to the specified email address.", 
-            "hint1": "Enter your email address and you will receive a code. This code will allow you to log into the system.",
-            "code": "Enter the code",
-            "hint2": "The code has been sent to the email address you provided in a previous step:",
-            "invalid_code": "The code is not valid."
+{
+    "languages": [
+        {
+            "name": "english",
+            "display": "English",
+            "login": {
+                "header": "Login",
+                "email": "Email",
+                "button": "Enter",
+                "error_sending": "Unable to send the code to the specified email address.", 
+                "hint1": "Enter your email address and you will receive a code. This code will allow you to log into the system.",
+                "code": "Enter the code",
+                "hint2": "The code has been sent to the email address you provided in a previous step:",
+                "invalid_code": "The code is not valid."
+            },
+            "profile": {
+                "header": "Profile",
+                "name": "Name",
+                "language": "Language",
+                "avatar": "Avatar",
+                "cancel": "Cancel",
+                "save": "Save"
+            },
+            "usermenu": {
+                "profile": "Profile",
+                "signout": "Sign out"
+            }
         },
-        "profile": {
-            "header": "Profile",
-            "name": "Name",
-            "language": "Language",
-            "avatar": "Avatar",
-            "cancel": "Cancel",
-            "save": "Save"
-        },
-        "usermenu": {
-            "profile": "Profile",
-            "signout": "Sign out"
+        {
+            "name": "russian",
+            "display": "Русский",
+            "login": {
+                "header": "Вход",
+                "email": "Почта",
+                "button": "Войти",
+                "error_sending": "Не удалось отправить код по предоставленному почтовому адресу.", 
+                "hint1": "На адрес Вашей электронной почты придет код, с помощью которого Вы сможете авторизоваться в системе.",
+                "code": "Введите код",
+                "hint2": "Код был отправлен на почту, которую Вы предоставили на предыдущем шаге:",
+                "invalid_code": "Введен неверный код."
+            },
+            "profile": {
+                "header": "Профиль",
+                "name": "Имя",
+                "language": "Язык",
+                "avatar": "Аватарка",
+                "cancel": "Отмена",
+                "save": "Сохранить"
+            },
+            "usermenu": {
+                "profile": "Профиль",
+                "signout": "Выйти"
+            }
         }
-    },
-    {
-        "name": "russian",
-        "display": "Русский",
-        "login": {
-            "header": "Вход",
-            "email": "Почта",
-            "button": "Войти",
-            "error_sending": "Не удалось отправить код по предоставленному почтовому адресу.", 
-            "hint1": "На адрес Вашей электронной почты придет код, с помощью которого Вы сможете авторизоваться в системе.",
-            "code": "Введите код",
-            "hint2": "Код был отправлен на почту, которую Вы предоставили на предыдущем шаге:",
-            "invalid_code": "Введен неверный код."
+    ],
+    "currencies": {
+        "RUB": {
+            "name": "Russian Ruble"
         },
-        "profile": {
-            "header": "Профиль",
-            "name": "Имя",
-            "language": "Язык",
-            "avatar": "Аватарка",
-            "cancel": "Отмена",
-            "save": "Сохранить"
-        },
-        "usermenu": {
-            "profile": "Профиль",
-            "signout": "Выйти"
+        "USD": {
+            "name": "US Dollar"
         }
     }
-]
+}
