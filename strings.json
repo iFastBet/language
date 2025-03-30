@@ -19,6 +19,10 @@
             "avatar": "Avatar",
             "cancel": "Cancel",
             "save": "Save"
+        },
+        "usermenu": {
+            "profile": "Edit profile",
+            "signout": "Sign out"
         }
     },
     {
@@ -41,6 +45,10 @@
             "avatar": "Аватарка",
             "cancel": "Отмена",
             "save": "Сохранить"
+        },
+        "usermenu": {
+            "profile": "Редактировать профиль",
+            "signout": "Выйти"
         }
     }
 ]
