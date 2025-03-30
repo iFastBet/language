@@ -21,7 +21,7 @@
             "save": "Save"
         },
         "usermenu": {
-            "profile": "Edit profile",
+            "profile": "Profile",
             "signout": "Sign out"
         }
     },
@@ -47,7 +47,7 @@
             "save": "Сохранить"
         },
         "usermenu": {
-            "profile": "Редактировать профиль",
+            "profile": "Профиль",
             "signout": "Выйти"
         }
     }
