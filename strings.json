@@ -6,7 +6,10 @@
             "header": "Login",
             "email": "Email",
             "button": "Enter",
-            "hint": "Enter your email address and you will receive a code. This code will allow you to log into the system."
+            "hint1": "Enter your email address and you will receive a code. This code will allow you to log into the system.",
+            "code": "Enter the code",
+            "hint2": "The code has been sent to the email address you provided in a previous step:",
+            "invalid": "The code is not valid."
         },
         "profile": {
             "header": "Profile",
@@ -22,9 +25,12 @@
         "display": "Русский",
         "login": {
             "header": "Вход",
-            "email": "Email",
+            "email": "Почта",
             "button": "Войти",
-            "hint": "На адрес Вашей электронной почты придет код, с помощью которого Вы сможете авторизоваться в системе."
+            "hint1": "На адрес Вашей электронной почты придет код, с помощью которого Вы сможете авторизоваться в системе.",
+            "code": "Введите код",
+            "hint2": "Код был отправлен на почту, которую Вы предоставили на предыдущем шаге:",
+            "invalid": "Введен неверный код."
         },
         "profile": {
             "header": "Профиль",
