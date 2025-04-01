@@ -3,6 +3,7 @@
         {
             "name": "english",
             "display": "English",
+            "Icon": "https://raw.githubusercontent.com/iFastBet/language/b27580ed45d7e6a32d4e54d6764a8d9f9d8c4b4d/flags/english.svg",
             "login": {
                 "header": "Login",
                 "email": "Email",
@@ -29,6 +30,7 @@
         {
             "name": "russian",
             "display": "Русский",
+            "Icon": "https://raw.githubusercontent.com/iFastBet/language/b27580ed45d7e6a32d4e54d6764a8d9f9d8c4b4d/flags/russian.svg",
             "login": {
                 "header": "Вход",
                 "email": "Почта",
