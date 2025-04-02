@@ -16,9 +16,9 @@
             },
             "profile": {
                 "header": "Profile",
-                "name": "Name",
+                "name": "Display name",
                 "language": "Language",
-                "avatar": "Avatar",
+                "avatar": "Profile picture",
                 "cancel": "Cancel",
                 "save": "Save",
                 "email": "Email"
@@ -44,9 +44,9 @@
             },
             "profile": {
                 "header": "Профиль",
-                "name": "Имя",
+                "name": "Отображаемое имя",
                 "language": "Язык",
-                "avatar": "Аватарка",
+                "avatar": "Картинка профиля",
                 "cancel": "Отмена",
                 "save": "Сохранить",
                 "email": "Почта"
