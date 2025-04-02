@@ -20,7 +20,8 @@
                 "language": "Language",
                 "avatar": "Avatar",
                 "cancel": "Cancel",
-                "save": "Save"
+                "save": "Save",
+                "email": "Email"
             },
             "usermenu": {
                 "profile": "Profile",
@@ -47,7 +48,8 @@
                 "language": "Язык",
                 "avatar": "Аватарка",
                 "cancel": "Отмена",
-                "save": "Сохранить"
+                "save": "Сохранить",
+                "email": "Почта"
             },
             "usermenu": {
                 "profile": "Профиль",
