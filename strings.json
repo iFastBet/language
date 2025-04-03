@@ -44,8 +44,7 @@
             "icon": "https://raw.githubusercontent.com/iFastBet/language/b27580ed45d7e6a32d4e54d6764a8d9f9d8c4b4d/flags/russian.svg",
             "popup": {
                 "cancel": "Отмена",
-                "save": "Сохранить",
-                "create": "Создать"
+                "save": "Сохранить"
             },
             "login": {
                 "header": "Вход",
