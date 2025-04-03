@@ -3,7 +3,12 @@
         {
             "name": "english",
             "display": "English",
-            "Icon": "https://raw.githubusercontent.com/iFastBet/language/b27580ed45d7e6a32d4e54d6764a8d9f9d8c4b4d/flags/english.svg",
+            "icon": "https://raw.githubusercontent.com/iFastBet/language/b27580ed45d7e6a32d4e54d6764a8d9f9d8c4b4d/flags/english.svg",
+            "popup": {
+                "cancel": "Cancel",
+                "save": "Save",
+                "create": "Create"
+            },
             "login": {
                 "header": "Login",
                 "email": "Email",
@@ -15,23 +20,33 @@
                 "invalid_code": "The code is not valid."
             },
             "profile": {
-                "header": "Profile",
+                "header": "My profile",
                 "name": "Display name",
                 "language": "Language",
                 "avatar": "Profile picture",
-                "cancel": "Cancel",
-                "save": "Save",
                 "email": "Email"
             },
             "usermenu": {
                 "profile": "Profile",
                 "signout": "Sign out"
+            },
+            "branch": {
+                "create": "Create a new branch",
+                "creating": "Creating a branch",
+                "edit": "Edit branch settings",
+                "name": "Name",
+                "currency": "Currency"
             }
         },
         {
             "name": "russian",
             "display": "Русский",
-            "Icon": "https://raw.githubusercontent.com/iFastBet/language/b27580ed45d7e6a32d4e54d6764a8d9f9d8c4b4d/flags/russian.svg",
+            "icon": "https://raw.githubusercontent.com/iFastBet/language/b27580ed45d7e6a32d4e54d6764a8d9f9d8c4b4d/flags/russian.svg",
+            "popup": {
+                "cancel": "Отмена",
+                "save": "Сохранить",
+                "create": "Создать"
+            },
             "login": {
                 "header": "Вход",
                 "email": "Почта",
@@ -43,17 +58,22 @@
                 "invalid_code": "Введен неверный код."
             },
             "profile": {
-                "header": "Профиль",
+                "header": "Мой профиль",
                 "name": "Отображаемое имя",
                 "language": "Язык",
                 "avatar": "Картинка профиля",
-                "cancel": "Отмена",
-                "save": "Сохранить",
                 "email": "Почта"
             },
             "usermenu": {
                 "profile": "Профиль",
                 "signout": "Выйти"
+            },
+            "branch": {
+                "create": "Создать новую ветку",
+                "creating": "Создание новой ветки",
+                "edit": "Редактировать текущую ветку",
+                "name": "Название",
+                "currency": "Валюта"
             }
         }
     ],
