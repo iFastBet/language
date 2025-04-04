@@ -3,7 +3,7 @@
         {
             "name": "english",
             "display": "English",
-            "icon": "https://raw.githubusercontent.com/iFastBet/language/b27580ed45d7e6a32d4e54d6764a8d9f9d8c4b4d/flags/english.svg",
+            "icon": "https://ifastbet.github.io/language/flags/english.svg",
             "popup": {
                 "cancel": "Cancel",
                 "save": "Save",
@@ -41,7 +41,7 @@
         {
             "name": "russian",
             "display": "Русский",
-            "icon": "https://raw.githubusercontent.com/iFastBet/language/b27580ed45d7e6a32d4e54d6764a8d9f9d8c4b4d/flags/russian.svg",
+            "icon": "https://ifastbet.github.io/language/flags/russian.svg",
             "popup": {
                 "cancel": "Отмена",
                 "save": "Сохранить"
