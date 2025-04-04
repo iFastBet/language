@@ -41,9 +41,10 @@
                 "name": "Name",
                 "currency": "Currency"
             },
-            "agents": {
+            "tokens": {
                 "joining": "Provide access token",
-                "token": "Token"
+                "token": "Token",
+                "manage": "Access token"
             }
         },
         {
@@ -85,11 +86,11 @@
                 "edit": "Редактировать текущую ветку",
                 "name": "Название",
                 "currency": "Валюта"
-            }
-            ,
-            "agents": {
+            },
+            "tokens": {
                 "joining": "Ввод токена доступа",
-                "token": "Токен"
+                "token": "Токен",
+                "manage": "Токен доступа"
             }
         }
     ],
