@@ -6,8 +6,7 @@
             "icon": "https://ifastbet.github.io/language/flags/english.svg",
             "popup": {
                 "cancel": "Cancel",
-                "save": "Save",
-                "create": "Create"
+                "save": "Save"
             },
             "login": {
                 "header": "Login",
