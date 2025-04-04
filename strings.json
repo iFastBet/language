@@ -42,7 +42,8 @@
                 "currency": "Currency"
             },
             "agents": {
-                "joining": "Provide access token"
+                "joining": "Provide access token",
+                "token": "Token"
             }
         },
         {
@@ -87,7 +88,8 @@
             }
             ,
             "agents": {
-                "joining": "Ввод токена доступа"
+                "joining": "Ввод токена доступа",
+                "token": "Токен"
             }
         }
     ],
