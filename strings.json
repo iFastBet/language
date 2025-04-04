@@ -34,12 +34,15 @@
                 "empty": "You do not have access to any of the iFastBet agents. Please connect to one of the memebers to obtain an access token.",
                 "join": "I have access token"
             },
-            "branch": {
+            "branches": {
                 "create": "Create a new branch",
                 "creating": "Creating a branch",
                 "edit": "Edit branch settings",
                 "name": "Name",
                 "currency": "Currency"
+            },
+            "agents": {
+                "joining": "Provide access token"
             }
         },
         {
@@ -75,12 +78,16 @@
                 "empty": "У вас нет доступа ни к одному из агентов iFastBet. Пожалуйста, свяжитесь с одним из участников, чтобы получить токен доступа.",
                 "join": "У меня есть токен доступа"
             },
-            "branch": {
+            "branches": {
                 "create": "Создать новую ветку",
                 "creating": "Создание новой ветки",
                 "edit": "Редактировать текущую ветку",
                 "name": "Название",
                 "currency": "Валюта"
+            }
+            ,
+            "agents": {
+                "joining": "Ввод токена доступа"
             }
         }
     ],
