@@ -43,8 +43,8 @@
             },
             "tokens": {
                 "joining": "Provide access token",
-                "token": "Token",
-                "manage": "Access token"
+                "managing": "Managing access token",
+                "token": "Token"
             }
         },
         {
@@ -89,8 +89,8 @@
             },
             "tokens": {
                 "joining": "Ввод токена доступа",
-                "token": "Токен",
-                "manage": "Токен доступа"
+                "managing": "Управление токеном доступа",
+                "token": "Токен"
             }
         }
     ],
