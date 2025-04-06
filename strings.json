@@ -7,7 +7,8 @@
             "messages": {
                 "code_ok": "Code was sent | Email successfully sent to specified address. Check your inbox.",
                 "code_error": "Error sending email | Check that the e-mail address you have entered is correct.",
-                "code_wrong": "Could not login | Check that the code entered is the same as the one received."
+                "code_wrong": "Could not login | Check that the code entered is the same as the one received.",
+                "lex_error": "Dictionary not loaded | Make sure you have a working internet connection and access to Github."
             },
             "popup": {
                 "cancel": "Cancel",
@@ -55,7 +56,8 @@
             "messages": {
                 "code_ok": "Код успешно отправлен | Электронное письмо успешно отправлено на указанный адрес.",
                 "code_error": "Ошибка при отправке | Убедитесь, что введенный вами адрес электронной почты верен.",
-                "code_wrong": "Ошибка при входе | Убедитесь, что введенный код совпадает с полученным в письме."
+                "code_wrong": "Ошибка при входе | Убедитесь, что введенный код совпадает с полученным в письме.",
+                "lex_error": "Не загружен словарь | Проверьте, что у вас работает интернет и досупен сайт Github."
             },
             "popup": {
                 "cancel": "Отмена",
