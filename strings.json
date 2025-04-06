@@ -6,7 +6,8 @@
             "icon": "https://ifastbet.github.io/language/flags/english.svg",
             "messages": {
                 "code_ok": "Code was sent | Email successfully sent to specified address. Check your inbox.",
-                "code_error": "Error sending email | Check that the e-mail address you have entered is correct."
+                "code_error": "Error sending email | Check that the e-mail address you have entered is correct.",
+                "code_wrong": "Could not login | Check that the code entered is the same as the one received."
             },
             "popup": {
                 "cancel": "Cancel",
@@ -53,7 +54,8 @@
             "icon": "https://ifastbet.github.io/language/flags/russian.svg",
             "messages": {
                 "code_ok": "Код успешно отправлен | Электронное письмо успешно отправлено на указанный адрес.",
-                "code_error": "Ошибка при отправке | Убедитесь, что введенный вами адрес электронной почты верен."
+                "code_error": "Ошибка при отправке | Убедитесь, что введенный вами адрес электронной почты верен.",
+                "code_wrong": "Ошибка при входе | Убедитесь, что введенный код совпадает с полученным в письме."
             },
             "popup": {
                 "cancel": "Отмена",
