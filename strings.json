@@ -4,6 +4,10 @@
             "name": "english",
             "display": "English",
             "icon": "https://ifastbet.github.io/language/flags/english.svg",
+            "messages": {
+                "code_ok": "Code was sent | Email successfully sent to specified address. Check your inbox.",
+                "code_error": "Error sending email | Check that the e-mail address you have entered is correct."
+            },
             "popup": {
                 "cancel": "Cancel",
                 "save": "Save"
@@ -47,6 +51,10 @@
             "name": "russian",
             "display": "Русский",
             "icon": "https://ifastbet.github.io/language/flags/russian.svg",
+            "messages": {
+                "code_ok": "Код успешно отправлен | Электронное письмо успешно отправлено на указанный адрес. Проверьте свою почту.",
+                "code_error": "Ошибка при отправке | Убедитесь, что введенный вами адрес электронной почты верен."
+            },
             "popup": {
                 "cancel": "Отмена",
                 "save": "Сохранить"
