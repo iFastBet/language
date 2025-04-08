@@ -36,17 +36,15 @@
                 "avatar": "Profile picture",
                 "email": "Email"
             },
-            "branches": {
-                "create": "Create a new branch",
-                "creating": "Creating a branch",
-                "edit": "Edit branch settings",
-                "name": "Name",
-                "currency": "Currency"
-            },
-            "tokens": {
+            "agents": {
                 "join": "Join an agent",
                 "joining": "Provide access token",
-                "managing": "Managing access token",
+                "create": "Create a new agent",
+                "creating": "Creating an agent",
+                "edit": "Edit branch settings",
+                "name": "Name",
+                "currency": "Currency",
+                "access": "Managing access token",
                 "token": "Token"
             }
         },
@@ -86,17 +84,15 @@
                 "avatar": "Картинка профиля",
                 "email": "Почта"
             },
-            "branches": {
-                "create": "Создать новую ветку",
-                "creating": "Создание новой ветки",
-                "edit": "Редактировать текущую ветку",
-                "name": "Название",
-                "currency": "Валюта"
-            },
-            "tokens": {
+            "agents": {
                 "join": "Присоединиться к агенту",
                 "joining": "Ввод токена доступа",
-                "managing": "Управление токеном доступа",
+                "create": "Создать нового агента",
+                "creating": "Создание нового агента",
+                "edit": "Редактировать агентп",
+                "name": "Название",
+                "currency": "Валюта",
+                "access": "Управление токеном доступа",
                 "token": "Токен"
             }
         }
