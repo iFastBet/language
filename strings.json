@@ -37,6 +37,7 @@
                 "email": "Email"
             },
             "agents": {
+                "transfer": "Transfer credits",
                 "join": "Join an agent",
                 "joining": "Provide access token",
                 "create": "Create a new agent",
@@ -85,11 +86,12 @@
                 "email": "Почта"
             },
             "agents": {
+                "transfer": "Перечислить кредиты",
                 "join": "Присоединиться к агенту",
                 "joining": "Ввод токена доступа",
                 "create": "Создать нового агента",
                 "creating": "Создание нового агента",
-                "edit": "Редактировать агентп",
+                "edit": "Редактировать агента",
                 "name": "Название",
                 "currency": "Валюта",
                 "access": "Управление токеном доступа",
