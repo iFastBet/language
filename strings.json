@@ -17,7 +17,8 @@
             "popup": {
                 "cancel": "Cancel",
                 "save": "Save",
-                "close": "Close"
+                "close": "Close",
+                "connect": "Connect"
             },
             "login": {
                 "header": "Login",
@@ -69,7 +70,8 @@
             "popup": {
                 "cancel": "Отмена",
                 "save": "Сохранить",
-                "close": "Закрыть"
+                "close": "Закрыть",
+                "connect": "Подключиться"
             },
             "login": {
                 "header": "Вход",
