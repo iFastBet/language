@@ -59,8 +59,7 @@
             "admins": {
                 "header": "Admins",
                 "removing": "Removing admin from the agent",
-                "remove": "You are going to remove #admin from the current agent. Are you sure?",
-                "suicide": "You are going to remove yourself from the current agent. Are you sure?"
+                "remove": "You are going to remove #admin from the current agent. Are you sure?"
             }
         },
         {
@@ -122,8 +121,7 @@
             "admins": {
                 "header": "Администраторы",
                 "removing": "Удаление администратора",
-                "remove": "Вы собираетесь удалить администратора #admin из текущего агента. Вы уверены?",
-                "suicide": "Вы собираетесь удалить себя из администраторов текущего агента. Вы уверены?"
+                "remove": "Вы собираетесь удалить администратора #admin из текущего агента. Вы уверены?"
             }
         }
     ],
