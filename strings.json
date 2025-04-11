@@ -18,7 +18,11 @@
                 "cancel": "Cancel",
                 "save": "Save",
                 "close": "Close",
-                "connect": "Connect"
+                "connect": "Connect",
+                "create": "Create",
+                "delete": "Delete",
+                "yes": "Yes",
+                "no": "No"
             },
             "login": {
                 "header": "Login",
@@ -51,6 +55,12 @@
                 "currency": "Currency",
                 "access": "Managing access token",
                 "token": "Token"
+            },
+            "admins": {
+                "header": "Admins",
+                "removing": "Removing admin from the agent",
+                "remove": "You are going to remove #admin from the current agent. Are you sure?",
+                "suicide": "You are going to remove yourself from the current agent. Are you sure?"
             }
         },
         {
@@ -71,7 +81,11 @@
                 "cancel": "Отмена",
                 "save": "Сохранить",
                 "close": "Закрыть",
-                "connect": "Подключиться"
+                "connect": "Подключиться",
+                "create": "Создать",
+                "delete": "Удалить",
+                "yes": "Да",
+                "no": "Нет"
             },
             "login": {
                 "header": "Вход",
@@ -104,6 +118,12 @@
                 "currency": "Валюта",
                 "access": "Управление токеном доступа",
                 "token": "Токен"
+            },
+            "admins": {
+                "header": "Администраторы",
+                "removing": "Удаление администратора",
+                "remove": "Вы собираетесь удалить администратора #admin из текущего агента. Вы уверены?",
+                "suicide": "Вы собираетесь удалить себя из администраторов текущего агента. Вы уверены?"
             }
         }
     ],
