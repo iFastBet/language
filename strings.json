@@ -1,7 +1,6 @@
 {
-    "languages": [
-        {
-            "name": "english",
+    "languages": {
+        "english": {
             "display": "English",
             "icon": "https://ifastbet.github.io/language/flags/english.svg",
             "messages": {
@@ -63,8 +62,7 @@
                 "remove": "You are going to remove #admin from the current agent. Are you sure?"
             }
         },
-        {
-            "name": "russian",
+        "russian": {
             "display": "Русский",
             "icon": "https://ifastbet.github.io/language/flags/russian.svg",
             "messages": {
@@ -126,7 +124,7 @@
                 "remove": "Вы собираетесь удалить администратора #admin из текущего агента. Вы уверены?"
             }
         }
-    ],
+    },
     "currencies": {
         "RUB": {
             "name": "Russian Ruble"
