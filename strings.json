@@ -9,7 +9,8 @@
                 "code_error": "Error sending email | Check that the e-mail address you have entered is correct.",
                 "code_wrong": "Could not login | Check that the code entered is the same as the one received.",
                 "db_error": "Database error | Try again later or contact technical support to resolve a problem.",
-                "profile_error": "Profile error | The application could not get your profile from the server."
+                "profile_error": "Profile error | The application could not get your profile from the server.",
+                "invalid_token": "Token error | The provided token is not valid, check it or request another one."
             },
             "hints": {
                 "no_access": "You do not have access to any of the iFastBet agents. Please connect to one of the memebers to obtain an access token."
@@ -71,7 +72,8 @@
                 "code_error": "Ошибка при отправке | Убедитесь, что введенный вами адрес электронной почты верен.",
                 "code_wrong": "Ошибка при входе | Убедитесь, что введенный код совпадает с полученным в письме.",
                 "db_error": "Ошибка базы данных | Попробуйте позднее или свяжитесь с технической поддержкой.",
-                "profile_error": "Ошибка профиля | Приложение не смогло получить данные учетной записи с сервера."
+                "profile_error": "Ошибка профиля | Приложение не смогло получить данные учетной записи с сервера.",
+                "invalid_token": "Ошибка токена | Введенный токен неверный. Проверьте, что вы его ввели верно."
             },
             "hints": {
                 "no_access": "У вас нет доступа ни к одному из агентов iFastBet. Пожалуйста, свяжитесь с одним из участников, чтобы получить токен доступа."
