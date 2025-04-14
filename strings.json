@@ -9,7 +9,8 @@
                 "code_wrong": "Could not login | Check that the code entered is the same as the one received.",
                 "db_error": "Database error | Try again later or contact technical support to resolve a problem.",
                 "profile_error": "Profile error | The application could not get your profile from the server.",
-                "invalid_token": "Token error | The provided token is not valid, check it or request another one."
+                "invalid_token": "Token error | The provided token is not valid, check it or request another one.",
+                "invalid_data": "Input error | Not enough data provided - check that you filled all the fields."
             },
             "buttons": {
                 "enter": "Enter",
@@ -71,9 +72,10 @@
                 "code_ok": "Код успешно отправлен | Электронное письмо успешно отправлено на указанный адрес.",
                 "code_error": "Ошибка при отправке | Убедитесь, что введенный вами адрес электронной почты верен.",
                 "code_wrong": "Ошибка при входе | Убедитесь, что введенный код совпадает с полученным в письме.",
-                "db_error": "Ошибка базы данных | Попробуйте позднее или свяжитесь с технической поддержкой.",
+                "db_error": "Ошибка базы данных | Попробуйте позднее или свяжитесь с поддержкой.",
                 "profile_error": "Ошибка профиля | Приложение не смогло получить данные учетной записи с сервера.",
-                "invalid_token": "Ошибка токена | Введенный токен неверный. Проверьте, что вы его ввели верно."
+                "invalid_token": "Ошибка токена | Введенный токен неверный. Проверьте, что вы его ввели верно.",
+                "invalid_data": "Ошибка данных | Недостаточно данных - проверьте, что все поля заполнены."
             },
             "buttons": {
                 "enter": "Войти",
