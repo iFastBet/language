@@ -34,9 +34,12 @@
                 "header": "My profile",
                 "signout": "Sign out",
                 "name": "Display name",
+                "email": "Email",
                 "language": "Language",
                 "avatar": "Profile picture",
-                "email": "Email"
+                "collection": "Avatar collection",
+                "seed": "Avatar seed",
+                "color": "Avatar color"
             },
             "agents": {
                 "transfer": "Transfer credits",
@@ -99,9 +102,12 @@
                 "header": "Мой профиль",
                 "signout": "Выйти",
                 "name": "Отображаемое имя",
+                "email": "Почта",
                 "language": "Язык интерфейса",
                 "avatar": "Картинка профиля",
-                "email": "Почта"
+                "collection": "Коллекция аватара",
+                "seed": "Зерно аватара",
+                "color": "Цвет аватара"
             },
             "agents": {
                 "transfer": "Перечислить кредиты",
