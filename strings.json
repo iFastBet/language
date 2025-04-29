@@ -12,6 +12,9 @@
                 "invalid_token": "Token error | The provided token is not valid, check it or request another one.",
                 "invalid_data": "Input error | Not enough data provided - check that you filled all the fields."
             },
+            "hints": {
+                "invalid_email": "The provided email address is not valid. Please check it and try again."
+            },
             "buttons": {
                 "enter": "Enter",
                 "cancel": "Cancel",
@@ -79,6 +82,9 @@
                 "profile_error": "Ошибка профиля | Приложение не смогло получить данные учетной записи с сервера.",
                 "invalid_token": "Ошибка токена | Введенный токен неверный. Проверьте, что вы его ввели верно.",
                 "invalid_data": "Ошибка данных | Недостаточно данных - проверьте, что все поля заполнены."
+            },
+            "hints": {
+                "invalid_email": "Введенный адрес электронной почты неверен. Проверьте его и попробуйте снова."
             },
             "buttons": {
                 "enter": "Войти",
