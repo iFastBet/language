@@ -44,7 +44,7 @@
             },
             "agents": {
                 "transfer": "Transfer credits",
-                "join": "Join an agent",
+                "join": "Join the agent",
                 "joining": "Provide access token",
                 "create": "Create a new agent",
                 "creating": "Creating an agent",
