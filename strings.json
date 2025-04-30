@@ -54,7 +54,7 @@
                 "currency": "Currency",
                 "access": "Managing access token",
                 "token": "Token",
-                "no_access": "You do not have access to any of the iFastBet organisations. Please contact one of the members to obtain an access token."
+                "no_access": "You do not have access to any of the iFastBet organisations. Please contact one of the members to obtain an access token. Then use it to join the organisation."
             },
             "branches": {
                 "create": "Create a new branch",
@@ -122,7 +122,7 @@
                 "currency": "Валюта",
                 "access": "Управление токеном доступа",
                 "token": "Токен",
-                "no_access": "У вас нет доступа ни к одному из агентов iFastBet. Пожалуйста, свяжитесь с одним из участников, чтобы получить токен доступа."
+                "no_access": "У вас нет доступа ни к одному из агентов iFastBet. Пожалуйста, свяжитесь с одним из участников, чтобы получить токен доступа, который позволит подключится к организации."
             },
             "branches": {
                 "create": "Создать новую ветку",
