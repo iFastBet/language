@@ -138,13 +138,5 @@
                 "remove": "Вы собираетесь удалить администратора #admin из текущего агента. Вы уверены?"
             }
         }
-    },
-    "currencies": {
-        "RUB": {
-            "name": "Russian Ruble"
-        },
-        "USD": {
-            "name": "US Dollar"
-        }
     }
 }
