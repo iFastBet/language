@@ -1,142 +1,140 @@
 {
-    "languages": {
-        "en": {
-            "display": "English",
-            "icon": "https://ifastbet.github.io/language/flags/english.svg",
-            "messages": {
-                "code_ok": "Code was sent | Email successfully sent to specified address. Check your inbox.",
-                "code_error": "Error sending email | Check that the e-mail address you have entered is correct.",
-                "code_wrong": "Could not login | Check that the code entered is the same as the one received.",
-                "db_error": "Database error | Try again later or contact technical support to resolve a problem.",
-                "profile_error": "Profile error | The application could not get your profile from the server.",
-                "invalid_token": "Token error | The provided token is not valid, check it or request another one.",
-                "invalid_data": "Input error | Not enough data provided - check that you filled all the fields."
-            },
-            "buttons": {
-                "enter": "Enter",
-                "cancel": "Cancel",
-                "save": "Save",
-                "close": "Close",
-                "connect": "Connect",
-                "create": "Create",
-                "delete": "Delete",
-                "yes": "Yes",
-                "no": "No"
-            },
-            "login": {
-                "header": "Login",
-                "email": "Email",
-                "hint1": "Enter your email address and you will receive a code. This code will allow you to log into the system.",
-                "code": "Enter the code",
-                "hint2": "The code has been sent to the email address you provided in a previous step:"
-            },
-            "profile": {
-                "header": "My profile",
-                "signout": "Sign out",
-                "theme": "Theme",
-                "name": "Display name",
-                "email": "Email",
-                "language": "Language",
-                "avatar": "Profile picture",
-                "collection": "Avatar collection",
-                "seed": "Avatar seed",
-                "color": "Avatar color"
-            },
-            "agents": {
-                "transfer": "Transfer credits",
-                "join": "Join the agent",
-                "joining": "Provide access token",
-                "create": "Create a new agent",
-                "creating": "Creating an agent",
-                "edit": "Edit agent settings",
-                "editing": "Editing agent settings",
-                "view": "View agent settings",
-                "name": "Name",
-                "currency": "Currency",
-                "access": "Managing access token",
-                "token": "Token",
-                "no_access": "You do not have access to any of the iFastBet agents. Please contact one of the members to create an agent for you. You will then be able to access it with an access token."
-            },
-            "branches": {
-                "create": "Create a new branch",
-                "creating": "Creating a branch",
-                "edit": "Edit current branch",
-                "editing": "Editing branch settings"
-            },
-            "admins": {
-                "header": "Admins",
-                "removing": "Removing admin from the agent",
-                "remove": "You are going to remove #admin from the current agent. Are you sure?"
-            }
+    "en": {
+        "display": "English",
+        "icon": "https://ifastbet.github.io/language/flags/english.svg",
+        "messages": {
+            "code_ok": "Code was sent | Email successfully sent to specified address. Check your inbox.",
+            "code_error": "Error sending email | Check that the e-mail address you have entered is correct.",
+            "code_wrong": "Could not login | Check that the code entered is the same as the one received.",
+            "db_error": "Database error | Try again later or contact technical support to resolve a problem.",
+            "profile_error": "Profile error | The application could not get your profile from the server.",
+            "invalid_token": "Token error | The provided token is not valid, check it or request another one.",
+            "invalid_data": "Input error | Not enough data provided - check that you filled all the fields."
         },
-        "ru": {
-            "display": "Русский",
-            "icon": "https://ifastbet.github.io/language/flags/russian.svg",
-            "messages": {
-                "code_ok": "Код успешно отправлен | Электронное письмо успешно отправлено на указанный адрес.",
-                "code_error": "Ошибка при отправке | Убедитесь, что введенный вами адрес электронной почты верен.",
-                "code_wrong": "Ошибка при входе | Убедитесь, что введенный код совпадает с полученным в письме.",
-                "db_error": "Ошибка базы данных | Попробуйте позднее или свяжитесь с поддержкой.",
-                "profile_error": "Ошибка профиля | Приложение не смогло получить данные учетной записи с сервера.",
-                "invalid_token": "Ошибка токена | Введенный токен неверный. Проверьте, что вы его ввели верно.",
-                "invalid_data": "Ошибка данных | Недостаточно данных - проверьте, что все поля заполнены."
-            },
-            "buttons": {
-                "enter": "Войти",
-                "cancel": "Отмена",
-                "save": "Сохранить",
-                "close": "Закрыть",
-                "connect": "Подключиться",
-                "create": "Создать",
-                "delete": "Удалить",
-                "yes": "Да",
-                "no": "Нет"
-            },
-            "login": {
-                "header": "Вход",
-                "email": "Почта",
-                "hint1": "На адрес Вашей электронной почты придет код, с помощью которого Вы сможете авторизоваться в системе.",
-                "code": "Введите код",
-                "hint2": "Код был отправлен на почту, которую Вы предоставили:"
-            },
-            "profile": {
-                "header": "Мой профиль",
-                "signout": "Выйти",
-                "theme": "Тема оформления",
-                "name": "Отображаемое имя",
-                "email": "Почта",
-                "language": "Язык интерфейса",
-                "avatar": "Картинка профиля",
-                "collection": "Коллекция аватара",
-                "seed": "Зерно аватара",
-                "color": "Цвет аватара"
-            },
-            "agents": {
-                "transfer": "Перечислить кредиты",
-                "join": "Присоединиться к агенту",
-                "joining": "Ввод токена доступа",
-                "create": "Создать нового агента",
-                "creating": "Создание нового агента",
-                "edit": "Редактировать агента",
-                "editing": "Редактирование агента",
-                "view": "Просмотр настроек агента",
-                "name": "Название",
-                "currency": "Валюта",
-                "access": "Управление токеном доступа",
-                "token": "Токен",
-                "no_access": "У вас нет доступа ни к одному из агентов iFastBet. Пожалуйста, свяжитесь с одним из участников, чтобы он создал для вас агента, для подключения к которому нужно ввести токен."
-            },
-            "branches": {
-                "create": "Создать новую ветку",
-                "creating": "Создание новой ветки",
-                "edit": "Редактировать ветку",
-                "editing": "Редактирование ветки"
-            },
-            "admins": {
-                "header": "Администраторы",
-                "removing": "Удаление администратора",
-                "remove": "Вы собираетесь удалить администратора #admin из текущего агента. Вы уверены?"
-            }
+        "buttons": {
+            "enter": "Enter",
+            "cancel": "Cancel",
+            "save": "Save",
+            "close": "Close",
+            "connect": "Connect",
+            "create": "Create",
+            "delete": "Delete",
+            "yes": "Yes",
+            "no": "No"
+        },
+        "login": {
+            "header": "Login",
+            "email": "Email",
+            "hint1": "Enter your email address and you will receive a code. This code will allow you to log into the system.",
+            "code": "Enter the code",
+            "hint2": "The code has been sent to the email address you provided in a previous step:"
+        },
+        "profile": {
+            "header": "My profile",
+            "signout": "Sign out",
+            "theme": "Theme",
+            "name": "Display name",
+            "email": "Email",
+            "language": "Language",
+            "avatar": "Profile picture",
+            "collection": "Avatar collection",
+            "seed": "Avatar seed",
+            "color": "Avatar color"
+        },
+        "agents": {
+            "transfer": "Transfer credits",
+            "join": "Join the agent",
+            "joining": "Provide access token",
+            "create": "Create a new agent",
+            "creating": "Creating an agent",
+            "edit": "Edit agent settings",
+            "editing": "Editing agent settings",
+            "view": "View agent settings",
+            "name": "Name",
+            "currency": "Currency",
+            "access": "Managing access token",
+            "token": "Token",
+            "no_access": "You do not have access to any of the iFastBet agents. Please contact one of the members to create an agent for you. You will then be able to access it with an access token."
+        },
+        "branches": {
+            "create": "Create a new branch",
+            "creating": "Creating a branch",
+            "edit": "Edit current branch",
+            "editing": "Editing branch settings"
+        },
+        "admins": {
+            "header": "Admins",
+            "removing": "Removing admin from the agent",
+            "remove": "You are going to remove #admin from the current agent. Are you sure?"
+        }
+    },
+    "ru": {
+        "display": "Русский",
+        "icon": "https://ifastbet.github.io/language/flags/russian.svg",
+        "messages": {
+            "code_ok": "Код успешно отправлен | Электронное письмо успешно отправлено на указанный адрес.",
+            "code_error": "Ошибка при отправке | Убедитесь, что введенный вами адрес электронной почты верен.",
+            "code_wrong": "Ошибка при входе | Убедитесь, что введенный код совпадает с полученным в письме.",
+            "db_error": "Ошибка базы данных | Попробуйте позднее или свяжитесь с поддержкой.",
+            "profile_error": "Ошибка профиля | Приложение не смогло получить данные учетной записи с сервера.",
+            "invalid_token": "Ошибка токена | Введенный токен неверный. Проверьте, что вы его ввели верно.",
+            "invalid_data": "Ошибка данных | Недостаточно данных - проверьте, что все поля заполнены."
+        },
+        "buttons": {
+            "enter": "Войти",
+            "cancel": "Отмена",
+            "save": "Сохранить",
+            "close": "Закрыть",
+            "connect": "Подключиться",
+            "create": "Создать",
+            "delete": "Удалить",
+            "yes": "Да",
+            "no": "Нет"
+        },
+        "login": {
+            "header": "Вход",
+            "email": "Почта",
+            "hint1": "На адрес Вашей электронной почты придет код, с помощью которого Вы сможете авторизоваться в системе.",
+            "code": "Введите код",
+            "hint2": "Код был отправлен на почту, которую Вы предоставили:"
+        },
+        "profile": {
+            "header": "Мой профиль",
+            "signout": "Выйти",
+            "theme": "Тема оформления",
+            "name": "Отображаемое имя",
+            "email": "Почта",
+            "language": "Язык интерфейса",
+            "avatar": "Картинка профиля",
+            "collection": "Коллекция аватара",
+            "seed": "Зерно аватара",
+            "color": "Цвет аватара"
+        },
+        "agents": {
+            "transfer": "Перечислить кредиты",
+            "join": "Присоединиться к агенту",
+            "joining": "Ввод токена доступа",
+            "create": "Создать нового агента",
+            "creating": "Создание нового агента",
+            "edit": "Редактировать агента",
+            "editing": "Редактирование агента",
+            "view": "Просмотр настроек агента",
+            "name": "Название",
+            "currency": "Валюта",
+            "access": "Управление токеном доступа",
+            "token": "Токен",
+            "no_access": "У вас нет доступа ни к одному из агентов iFastBet. Пожалуйста, свяжитесь с одним из участников, чтобы он создал для вас агента, для подключения к которому нужно ввести токен."
+        },
+        "branches": {
+            "create": "Создать новую ветку",
+            "creating": "Создание новой ветки",
+            "edit": "Редактировать ветку",
+            "editing": "Редактирование ветки"
+        },
+        "admins": {
+            "header": "Администраторы",
+            "removing": "Удаление администратора",
+            "remove": "Вы собираетесь удалить администратора #admin из текущего агента. Вы уверены?"
         }
     }
 }
