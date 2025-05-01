@@ -1,6 +1,6 @@
 {
     "languages": {
-        "english": {
+        "en": {
             "display": "English",
             "icon": "https://ifastbet.github.io/language/flags/english.svg",
             "messages": {
@@ -69,7 +69,7 @@
                 "remove": "You are going to remove #admin from the current agent. Are you sure?"
             }
         },
-        "russian": {
+        "ru": {
             "display": "Русский",
             "icon": "https://ifastbet.github.io/language/flags/russian.svg",
             "messages": {
