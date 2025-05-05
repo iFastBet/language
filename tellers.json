@@ -1,7 +1,38 @@
 {
-    "en": {
-        "fortuna": {
-            "test": "TEST_TEST"
-        }
-    }
+	"en": {
+		"progress": {
+			"round": "Round"
+		},
+		"fortuna": {
+			"even": "Even",
+			"odd": "Odd"
+		},
+		"ticket": {
+			"name": "ticket",
+			"empty": "Empty",
+			"save": "Save and Print",
+			"total": "total",
+			"result": "Result",
+			"ratio": "Ratio",
+			"amount": "Amount"
+		}
+	},
+	"ru": {
+		"progress": {
+			"round": "Раунд"
+		},
+		"fortuna": {
+			"even": "Чётный",
+			"odd": "Нечётный"
+		},
+		"ticket": {
+			"name": "Чек",
+			"empty": "Пустой",
+			"save": "Сохранить и распечатать",
+			"total": "Всего",
+			"result": "Поле",
+			"ratio": "Соотношение",
+			"amount": "Сумма"
+		}
+	}
 }
