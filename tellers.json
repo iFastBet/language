@@ -21,7 +21,13 @@
             "changepass": "Change password",
             "support": "Support",
             "logout": "Logout"
-		}
+		},
+        "notifications":{
+            "no_bet_amount": {
+                "header": "No bet amount",
+                "text": "There is no amount defined for a bet. Please set the amount to add the bet."
+            }
+        }
 	},
 	"ru": {
 		"progress": {
@@ -34,10 +40,10 @@
 		"ticket": {
 			"name": "чек",
 			"empty": "Пустой",
-			"save": "Сохранить и распечатать",
+			"save": "Сохранить и печатать",
 			"total": "Всего",
 			"result": "Поле",
-			"ratio": "Соотношение",
+			"ratio": "Коэф.",
 			"amount": "Сумма"
 		},
 		"profilemenu": {
