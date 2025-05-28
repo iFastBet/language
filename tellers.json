@@ -13,6 +13,7 @@
 			"save": "Save and Print",
 			"total": "total",
 			"result": "Result",
+			"stage": "Stage",
 			"ratio": "Ratio",
 			"amount": "Amount"
 		},
@@ -43,6 +44,7 @@
 			"save": "Сохранить и печатать",
 			"total": "Всего",
 			"result": "Поле",
+			"stage": "Этап",
 			"ratio": "Коэф.",
 			"amount": "Сумма"
 		},
