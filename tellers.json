@@ -3,6 +3,9 @@
 		"progress": {
 			"round": "Round"
 		},
+		"gamelist": {
+		 "no_games": "No games"
+		},
 		"fortuna": {
 			"even": "Even",
 			"odd": "Odd"
@@ -33,6 +36,9 @@
 	"ru": {
 		"progress": {
 			"round": "Раунд"
+		},
+		"gamelist": {
+			"no_games": "Нету игр"
 		},
 		"fortuna": {
 			"even": "Чётный",
